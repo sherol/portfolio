@@ -1,3 +1,5 @@
+http://sherol.github.io/portfolio/
+
 Freelancer Jekyll theme
 =========================
 
